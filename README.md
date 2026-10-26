@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Bhuvi35 DevOps banner">
+</p>
+
 # `root@Bhuvi35:~$ whoami`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=39FF88&center=false&vCenter=true&width=700&lines=DevOps+Engineer+%7C+Cloud+Engineer;Automating+Infrastructure+%26+Deployments;Kubernetes+%7C+Terraform+%7C+CI%2FCD;Build.+Deploy.+Monitor.+Repeat." alt="Typing SVG" />
@@ -117,4 +121,33 @@ $ _
 
 <p align="center">
   <i>Automate the boring stuff. Engineer the reliable stuff.</i>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 align="center">⚡ GITHUB ANALYTICS ⚡</h2>
+
+<p align="center">
+  <img width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Bhuvi35&show_icons=true&theme=chartreuse-dark&hide_border=true"
+    alt="GitHub stats">
+  <img width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvi35&layout=compact&theme=chartreuse-dark&hide_border=true"
+    alt="Top languages">
+</p>
+
+<p align="center">
+  <img width="70%"
+    src="https://streak-stats.demolab.com?user=Bhuvi35&theme=chartreuse-dark&hide_border=true"
+    alt="GitHub contribution streak">
 </p>
